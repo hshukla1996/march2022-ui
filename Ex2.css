@@ -1,0 +1,84 @@
+/* Add your styles here */
+.r-card {
+    background-color: red;
+    border: 100px solid red;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+  }
+  .gr-card {
+    color: silver;
+    border: 100px solid gray;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: gray;
+  }
+  .b-card {
+    color: white;
+    border: 100px solid blue;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: blue;
+  }
+  .g-card {
+    color: white;
+    border: 100px solid green;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: green;
+  }
+  
+  .r-card:hover{
+    cursor: pointer;
+  }
+  .gr-card:hover{
+    cursor: pointer;
+  }
+  .b-card:hover{
+    cursor: pointer;
+  }
+  .g-card:hover{
+    cursor: pointer;
+  }
+  
+  .r-card-1 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+  }
+  
+  .gr-card-1 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 100px;
+  }
+  .b-card-1 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+  }
+  .g-card-1 {
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+  }
+  .fe{
+    text-align: center;
+    }
+  .mo{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+  }
+  .bo{
+    text-align: center;
+    color: red;
+  }
+  .fmb{
+    display:inline-block;
+  }
+  

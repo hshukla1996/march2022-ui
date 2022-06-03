@@ -1,0 +1,39 @@
+/* This IS CSS For Bank Form */
+
+.Bank {
+    background-color: red;
+    color: white;
+  }
+  
+  .label {
+    padding: 12px;
+    margin-top: 20px;
+  }
+  .Account {
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+  }
+  .box {
+    width: 26px;
+    height: 20px;
+    margin-left: 20px;
+  }
+  
+  .label2 {
+    background-color: rgba(255, 0, 0, 0.74);
+    color: white;
+    padding: 14px 20px;
+    margin: 20px;
+    border: 1px solid white;
+    width: 90%;
+  }
+  .Account2 {
+    background-color:rgba(165, 7, 7, 0.74);
+    color:white;
+    margin:70px;
+    padding:14px;
+    border:;
+    text-decoration: none;
+  }
+  
